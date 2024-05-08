@@ -1,6 +1,5 @@
  PROJECT : Age Calculator
 
-Description
 This Java program calculates a person's age based on their date of birth. It provides a command-line interface for easy interaction.
 
 ## How to Use
