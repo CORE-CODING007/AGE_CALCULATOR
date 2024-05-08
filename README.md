@@ -1,3 +1,8 @@
+GROUP MEMBERS AND REPOSITORY COLLARATORS
+1. HAMADULLAH ODHO / 2K23/CSE/49
+2. MUZZAMIL VISTRO / 2K23/CSE/97
+3. SEERAT AHSAN / 2K23/CSE/133
+ 
  PROJECT : Age Calculator
 
 This Java program calculates a person's age based on their date of birth. It provides a command-line interface for easy interaction.
